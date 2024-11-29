@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Harban1
   
 - 👀 I’m interested in:
-  music
-  art
-  maths/problem solving
-  making games/ graphics using python
+  music,
+  art,
+  maths/problem solving,
+  making games/graphics using python.
   
 - 🌱 I’m currently learning:
-  python
+  python,
   violin
   
 - 💞️ I’m looking to collaborate on:
